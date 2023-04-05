@@ -10,4 +10,4 @@ let colore = prompt ("inserisci colore");
 
 let password = `${nome} ${cognome} ${colore}`;
 
-document.getElementById("passwordDaInserire").innerHTML = password + 2023;
+document.getElementById("passwordDaInserire").innerHTML = password + " " + 2023;
